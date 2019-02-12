@@ -1,5 +1,6 @@
 net stop “Dameware Mini Remote Control”
 net stop DWMRCS
+sc delete DWMRCS
 
 regsvr32 /u %systemroot%\DWRCS\DWRCSh.dll
 regsvr32 /u %systemroot%\DWRCS\DWRCSE.dll
