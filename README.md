@@ -1,6 +1,6 @@
 # Dameware-Removal-Script
 
-Powershell and Batch file script to remove Dameware Mini Remote Control (https://www.dameware.com/dameware-mini-remote-control)
+This script helps remove dameware. Powershell and Batch file script to remove Dameware Mini Remote Control (https://www.dameware.com/dameware-mini-remote-control)
 
 Run batch file first (as administrator). Then reboot system and run powershell script. 
 
