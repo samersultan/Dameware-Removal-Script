@@ -1,6 +1,6 @@
 # Dameware-Removal-Script
 
-This script helps fully remove Dameware Mini Remote Control (https://www.dameware.com/dameware-mini-remote-control)
+This script helps 100% remove Dameware Mini Remote Control (https://www.dameware.com/dameware-mini-remote-control)
  desktop application. Useful for when you no longer have the server component acces, and want to remove it from an endpoint. Run the Powershell and Batch file script to easily and quickly fully remove Dameware Mini Remote Control 
  
  
